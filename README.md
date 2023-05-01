@@ -20,7 +20,7 @@ If you're still learning and want the badge, follow the instructions below!
 - Go to the bot tab and generate a bot account for the application.
 - Click the "Reset Token" button to generate a token (if you have 2fa enabled, you'll need your code).
 - Copy the token to your clipboard.
-- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/github/Pronoy2007/Claim-Discord-Active-Developer-Badge)]
+- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/new/github/pronoy2007/discord-active-developer-badge)](https://replit.com/new/github/pronoy2007/discord-active-developer-badge)
   - You will be redirected to Replit, you might have to create an account (you can Register with Google).
     - Replit is a website, and does not run off your computer! 
 - Wait for the repo has finished cloning and the repl to fully connect.
@@ -45,3 +45,19 @@ If you're still learning and want the badge, follow the instructions below!
 
 If you're encountering any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join [this](https://discord.gg/M5MSE9CvNM) server and ping me in the `#general` channel.
 
+
+--------------------------------------
+
+
+
+
+--------------------------------------
+
+
+# Star the repo!!!
+If you were able to successfully get the badge from this, star this repository so more people can see it and feel free to join our Discord server: https://discord.gg/M5MSE9CvNM
+
+### No, it's not "patched"
+I've seen a lot of people say that this method has been patched or something. It's not. It still works (people are still getting the badge from it), if you're unable to get the badge after 24 hours of waiting, you probably didn't follow the instructions correctly.
+
+I think people think this is patched because of NoTextToSpeech's video but that video linked to another repository that works a different way, not this one.
