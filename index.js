@@ -65,6 +65,5 @@ const question = (q) => new Promise((resolve) => rl.question(q, resolve));
   
   console.log(chalk.bold('This application was customized by', chalk.hex('#5A96F6')('TrickyFoxCreationsYT')));
   console.log(`Feel Free To Subscribe My Channel, I upload videos thrice a week about premium subscriptions of applcations and tips and tricks, which might help you in future.`);
-  console.log(`----> ${chalk.green.bold(`https://bit.ly/SkysilkBotHosting`)} <----\n`);
-  console.png(require('path').join(__dirname, 'assests', 'tf-logo.png'))
+  console.log(`----> ${chalk.green.bold(`https://www.youtube.com/channel/UCJ7RCGif6LQUMIqD5YaOIew`)} <----\n`);
 })();
