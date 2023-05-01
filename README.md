@@ -20,7 +20,8 @@ If you're still learning and want the badge, follow the instructions below!
 - Go to the bot tab and generate a bot account for the application.
 - Click the "Reset Token" button to generate a token (if you have 2fa enabled, you'll need your code).
 - Copy the token to your clipboard.
-- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/new/github/pronoy2007/discord-active-developer-badge)](https://replit.com/new/github/pronoy2007/discord-active-developer-badge)
+- Click this badge to clone this repo to a new repl in Replit -> [![Run on Repl.it](https://replit.com/github/pronoy2007/claim-discord-active-developer-badge)]
+(https://replit.com/github/pronoy2007/claim-discord-active-developer-badge)
   - You will be redirected to Replit, you might have to create an account (you can Register with Google).
     - Replit is a website, and does not run off your computer! 
 - Wait for the repo has finished cloning and the repl to fully connect.
@@ -42,9 +43,6 @@ If you're still learning and want the badge, follow the instructions below!
 **NOTE:** Make sure you have the “Use data to improve Discord” setting enabled under User Settings > Privacy & Safety otherwise you won't be able to be marked as eligible.
 
 **NOTE 2:** You do not need to keep the Replit tab open 24/7. Only go to the Replit url whenever you want to run your bot.
-
-If you're encountering any issues, [create a new GitHub issue](https://github.com/hackermondev/discord-active-developer/issues) or join [this](https://discord.gg/M5MSE9CvNM) server and ping me in the `#general` channel.
-
 
 --------------------------------------
 
